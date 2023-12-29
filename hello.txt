@@ -13,3 +13,5 @@ we can
 You definitely pass, sure.
 You will get a good job.
 
+
+I understand how GitHub and Git work.
